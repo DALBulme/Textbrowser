@@ -23,7 +23,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>nicht-wahr.de</string>
+    <string>www.bulme.at</string>
    </property>
   </widget>
   <widget class="QPushButton" name="goButton">
